@@ -1,4 +1,4 @@
-Configuration SCUWebrole {
+Configuration webrolefull {
 
     $features = @(
         @{Name = "Web-Server"; Ensure = "Present"},
